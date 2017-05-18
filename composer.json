@@ -1,0 +1,18 @@
+{
+    "name": "pressroom/functions",
+    "description": "A set of common functions for WordPress plugin and theme development",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Willington Vega",
+            "email": "wvega@wvega.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
